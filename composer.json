@@ -1,0 +1,7 @@
+{
+    "name": "iamgabrielma/konnichiwa-dooriichan",
+    "description": "This is an experimental plugin to experiment with VVV, PHPUnit, NPM, Composer, JSHint, PHP_CodeSniffer, and more.",
+    "homepage": "https://tilcode.blog/",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+"
+}

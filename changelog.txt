@@ -1,0 +1,11 @@
+===  今日はドーリーちゃん ===
+Contributors: gma992
+Tested up to: 5.2.4
+
+今日はドーリーちゃん
+
+== Description ==
+
+今日はドーリーちゃん 
+
+This is an experimental plugin to experiment with VVV, PHPUnit, NPM, Composer, JSHint, PHP_CodeSniffer, and more.
